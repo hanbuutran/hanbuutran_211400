@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ten nguoi dung: hanbuutran
 Ngay gio hien tai: Mon Oct 21 05:37:39 EDT 2024
+=======
+hanbuutran hanbuutran
+Ngay va gio hien tai: Mon Oct 21 05:00:33 EDT 2024
+>>>>>>> user2
