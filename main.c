@@ -1,0 +1,13 @@
+//main.c
+#include <stdio.h>
+
+//Khai bao cac fuction
+void inShellc1();
+void inShellc2();
+
+
+int main() {
+inShellc1();
+inShellc2();
+return 0;
+}
